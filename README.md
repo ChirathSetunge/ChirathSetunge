@@ -1,3 +1,3 @@
 ## Hi there 👋
-Im Chirath Setunge, who is curious to learn machine learning.
+I'm Chirath Setunge, who is curious to learn machine learning.
 
