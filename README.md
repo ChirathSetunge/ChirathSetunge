@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm **Chirath Setunge** 
 
-Undergraduate of ## **BSc (Hons) Artificial Intelligence and Data Science** from **ROBERT GORDON UNIVERSITY**
+Undergraduate of **BSc (Hons) Artificial Intelligence and Data Science** from **ROBERT GORDON UNIVERSITY**
 
 Advocate
 
