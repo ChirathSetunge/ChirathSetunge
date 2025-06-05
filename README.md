@@ -26,8 +26,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=900&lines=BSc+%28Hons%29+AI+%26+Data+Science+Undergraduate+%F0%9F%93%9A;Curious+Mind+with+a+Builder%27s+Spirit+%F0%9F%A7%A0;ML,+Data+Science+%26+Cloud+Engineering+Enthusiast+%E2%98%81%EF%B8%8F;Building+End-to-End+ETL+%2B+ML+Pipelines+%F0%9F%9A%80;Solving+Real+Problems+with+Real+Data+%F0%9F%93%8A;Always+Asking+the+Right+Questions+%F0%9F%94%8D;Team-Driven,+Growth-Focused+%26+Always+Learning+%F0%9F%92%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&center=true&vCenter=true&width=900&lines=BSc+%28Hons%29+AI+%26+Data+Science+Undergraduate+%F0%9F%93%9A;Curious+Mind+with+a+Builder%27s+Spirit+%F0%9F%A7%A0;ML,+Data+Science+%26+Data+Engineering+Enthusiast+%E2%98%81%EF%B8%8F;Building+End-to-End+ETL+%2B+ML+Pipelines+%F0%9F%9A%80;Solving+Real+Problems+with+Real+Data+%F0%9F%93%8A;Always+Asking+the+Right+Questions+%F0%9F%94%8D;Team-Driven,+Growth-Focused+%26+Always+Learning+%F0%9F%92%A1" alt="Typing SVG"/>
 </p>
+
 
 ***
 
