@@ -34,7 +34,7 @@
 
 ## 🚀 About Me
 
-I'm a 🎯 **curious and driven undergraduate** pursuing a BSc (Hons) in Artificial Intelligence & Data Science at **Robert Gordon University**, in collaboration with IIT Sri Lanka 🇱🇰 — currently in my 2nd year with distinction.
+I'm a 🎯 **curious and driven undergraduate** pursuing a BSc (Hons) in Artificial Intelligence & Data Science at **Robert Gordon University**, in collaboration with IIT Sri Lanka 🇱🇰 — currently in my 3rd year with distinction.
 
 I thrive in 🤝 **collaborative environments**, love asking 🔍 **impactful questions**, and bring a strong mix of 🧠 **analytical thinking**, ☁️ **cloud engineering**, and 🤖 **ML modeling** skills to the table.
 
