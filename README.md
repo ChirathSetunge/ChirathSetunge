@@ -94,8 +94,8 @@ From designing predictive models for municipal councils to building real-time ET
 
 ## 🏆 Major Projects
 
-- **Municipal Solid Waste Generation Prediction and Management System**  
-  Developed a full data science lifecycle project for a municipal council, deploying high-accuracy ML models for waste forecasting.  
+- **Municipal Solid Waste Generation Prediction and Management System** ([GitHub Repository](https://github.com/ChirathSetunge/DSGP_3_Waste_Management_System))
+- Developed a full data science lifecycle project for a municipal council, deploying high-accuracy ML models for waste forecasting.  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -104,8 +104,8 @@ From designing predictive models for municipal councils to building real-time ET
 
 ---
 
-- **Fully Cloud-Based ETL Pipeline on AWS**  
-  Automated weather data extraction, transformation, and loading with real-time monitoring and scalable cloud infrastructure.  
+- **Fully Cloud-Based ETL Pipeline on AWS** ([GitHub Repository](https://github.com/ChirathSetunge/Fully-Cloud-Based-ETL-Pipeline-on-AWS))
+- Automated weather data extraction, transformation, and loading with real-time monitoring and scalable cloud infrastructure.  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
   ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -114,24 +114,33 @@ From designing predictive models for municipal councils to building real-time ET
 
 ---
 
-- **Predicting Term Deposit Subscription Using Machine Learning**  
-  Built and compared neural network and random forest models for financial product subscription prediction.  
+- **Predicting Term Deposit Subscription Using Machine Learning** ([GitHub Repository](https://github.com/ChirathSetunge/Predicting_Term_Deposit_Subscription))
+- Built and compared neural network and random forest models for financial product subscription prediction.  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-- **Queuing System Optimization for Bank Service Efficiency**  
-  Simulated and optimized bank queuing systems for improved customer service efficiency.  
+- **Queuing System Optimization for Bank Service Efficiency** ([GitHub Repository](https://github.com/ChirathSetunge/Queuing-System-Optimization-for-Bank-Service-Efficiency))
+- Simulated and optimized bank queuing systems for improved customer service efficiency.  
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![Simmer](https://img.shields.io/badge/Simmer-87CEFA?style=for-the-badge)
   ![ggplot2](https://img.shields.io/badge/ggplot2-2C2D72?style=for-the-badge)
 
 ---
 
-- **Autonomous Robot Path Planning System**  
-  Designed and visualized advanced path-planning logic for autonomous navigation.  
+- **NEWS Article Recommendation System** ([GitHub Repository](https://github.com/ChirathSetunge/NEWS-Article-Recommendation-System))
+- Intelligent platform built to deliver personalized news recommendations using machine learning, with robust system design.  
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaFX](https://img.shields.io/badge/JavaFX-2C3E50?style=for-the-badge)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge)
+  ![OOP](https://img.shields.io/badge/OOP-2980B9?style=for-the-badge)
+
+---
+
+- **Autonomous Robot Path Planning System** ([GitHub Repository](https://github.com/ChirathSetunge/Autonomous-Robot-Path-Planning))
+- Designed and visualized advanced path-planning logic for autonomous navigation.  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
   ![A* Algorithm](https://img.shields.io/badge/A*%20Algorithm-8E44AD?style=for-the-badge)
   ![OOP](https://img.shields.io/badge/OOP-2980B9?style=for-the-badge)
